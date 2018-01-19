@@ -70,5 +70,9 @@ int main (){
 		cout << " - Jumlah Mobil ="<<mobilSUV.jumlahMobil<<"unit"<<endl;
 		cout << " - Merk Mobil   ="<<mobilSUV.merkMobil<<endl;
 		mobilSUV.berkendara("140km/jam");	
+	} else{
+	
+		cout << "Maaf, Jenis Mobil Yang Anda pilih Belum tersedia";
 	}
+	
 }
