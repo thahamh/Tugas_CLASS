@@ -17,4 +17,6 @@ void mobil::berkendara(string kecepatan){
 	
 int main (){
 	
+	mobil mobilSedan, mobilCoupe, mobilSportCars, mobilCityCar, mobilMVP, mobilSUV;
+	
 }
