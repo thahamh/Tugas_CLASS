@@ -10,6 +10,10 @@ class mobil{
 				
 				
 }; 
+
+void mobil::berkendara(string kecepatan){
+	cout << "kecepatan Mobil : "<< kecepatan <<endl;
+}
 	
 int main (){
 	
